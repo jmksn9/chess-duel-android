@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045964652776",
+    "project_id": "chess-duel-ac99f",
+    "storage_bucket": "chess-duel-ac99f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045964652776:android:7e84944b6d293a9e18c95d",
+        "android_client_info": {
+          "package_name": "com.jmksn9.chessduel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuMrwBjKpfI7EqFjbNGCHybmES_1kYYdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
